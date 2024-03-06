@@ -1,1 +1,500 @@
-hello this text file is now handled in sub_1
+   58  Recent/
+   59  SendTo/
+   60  Start Menu/
+   61  git status
+   62  ls
+   63  git add .gitignore
+   64  git commit -m "Add .gitignore file"
+   65  git add text8.txt/
+   66  git commit -m "F"
+   67  git status
+   68  git add -A
+   69  git add .bash_history .gitconfig .lesshst .ssh/ .viminfo .vscode/ AppData/ 'C Language/' Contacts/ Downloads/ Favorites/ GIT_2310990038/ GIT____2310990038/ GitCourseG01/ Git_0038/ Git_1234/ Git__0038/ Links/ 'MinGW Installer.lnk' Music/ NTUSER.DAT 'NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.0.regtrans-ms' 'NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.1.regtrans-ms' 'NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.2.regtrans-ms' 'NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.blf' 'NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf' 'NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms' 'NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms' OneDrive/ Project/ 'Saved Games/' Searches/ Videos/ cool.txt 'creationofgitfile/' 'git0038/gitlab14_feb1/task1.1_/' 'git38/gitlab_14_feb/Task_1.1/' gitfile/ helloworld/ ignore/ letslearngit/ ntuser.dat.LOG1 ntuser.dat.LOG2 ntuser.ini text01.txt 'text04.txt/' text08.txt/ text1.txt text4.txt 'text5.txt/' 'text7.txt/' 'text8.txt/'
+   70  git commit -m "fgh"
+   71  clear
+   72  git status
+   73  git add .bash_history .gitconfig .lesshst .ssh/ .viminfo .vscode/ AppData/ 'C Language/' Contacts/ Downloads/ Favorites/ GIT_2310990038/ GIT____2310990038/ GitCourseG01/ Git_0038/ Git_1234/ Git__0038/ Links/ 'MinGW Installer.lnk' Music/ NTUSER.DAT 'NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.0.regtrans-ms' 'NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.1.regtrans-ms' 'NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.2.regtrans-ms' 'NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.blf' 'NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf' 'NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms' 'NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms' OneDrive/ Project/ 'Saved Games/' Searches/ Videos/ cool.txt 'creationofgitfile/' 'git0038/gitlab14_feb1/task1.1_/' 'git38/gitlab_14_feb/Task_1.1/' gitfile/ helloworld/ ignore/ letslearngit/ ntuser.dat.LOG1 ntuser.dat.LOG2 ntuser.ini text01.txt 'text04.txt/' text08.txt/ text1.txt text4.txt 'text5.txt/' 'text7.txt/' 
+   74  git reset --hard
+   75  git add .
+   76  git status
+   77  git add  .bash_history
+   78  git commit -m "cvb"
+   79  git status
+   80  git add  NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+   81  git commit -m "gh"
+   82  git status
+   83  git add ..
+   84  git add  .gitconfig
+   85          .lesshst
+   86          .ssh/
+   87          .viminfo
+   88          .vscode/
+   89          AppData/
+   90          C Language/
+   91          Contacts/
+   92          Downloads/
+   93          Favorites/
+   94          GIT_2310990038/
+   95          GIT____2310990038/
+   96          GitCourseG01/
+   97          Git_0038/
+   98          Git_1234/
+   99          Git__0038/
+  100          Links/
+  101          MinGW Installer.lnk
+  102          Music/
+  103          NTUSER.DAT
+  104          NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.0.regtrans-ms
+  105          NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.1.regtrans-ms
+  106          NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.2.regtrans-ms
+  107          NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.blf
+  108          NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+  109          NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+  110          OneDrive/
+  111          Project/
+  112          Saved Games/
+  113          Searches/
+  114          Videos/
+  115          cool.txt
+  116          creationofgitfile/
+  117          git0038/gitlab14_feb1/task1.1_/
+  118          git38/gitlab_14_feb/Task_1.1/
+  119          gitfile/
+  120          helloworld
+  121          ignore/
+  122          letslearngit/
+  123          ntuser.dat.LOG1
+  124          ntuser.dat.LOG2
+  125          ntuser.ini
+  126          text01.txt
+  127          text04.txt/
+  128          text08.txt/
+  129          text1.txt
+  130          text4.txt
+  131          text5.txt/
+  132          text7.txt/
+  133  git commit -m "gh"
+  134  git status
+  135  echo "*" > .gitignore
+  136  git add .gitignore
+  137  git commit -m "Add .gitignore file to ignore all files"
+  138  git status
+  139  git status
+  140  pwd
+  141  git status
+  142  git add .
+  143  git restore .
+  144  git status
+  145  clear
+  146  mkdir 22ndFeb
+  147  cd 22ndFeb
+  148  git init
+  149  vi hello01.txt
+  150  git status
+  151  git add hello.txt
+  152  git add hello01.txt
+  153  git commit -m "first text in this file"
+  154  git log
+  155  git status
+  156  vi hello.c
+  157  cat hello.c
+  158  vi hello.c
+  159  git add hello.c
+  160  git commit -m "first c file"
+  161  vi hello.txt
+  162  git add hello.txt
+  163  git commit -m "hello"
+  164  git log
+  165  git branch test
+  166  git branch dev
+  167  git checkout test
+  168  git log
+  169  git checkout master
+  170  vi hey.py
+  171  cat hey.py
+  172  git status
+  173  vi .gitignore
+  174  git add .gitignore
+  175  git commit -m "hey"
+  176  cat .gitignore
+  177  git status
+  178  git add .gitignore
+  179  git commit -m "heya"
+  180  mkdir ignored
+  181  cd ignored/
+  182  vi hi.txt
+  183  vi hi.png]
+  184  vi hi.png
+  185  cd ..
+  186  vi add .gitignore
+  187  git commit -m "added to ignored 
+  188  git commit -m "added to ignored"
+  189  git add .gitignore
+  190  git commit -m "hello"
+  191  git log
+  192  clear
+  193  cd ..
+  194  clear
+  195  mkdir 22ndFEB
+  196  clear
+  197  mkdir 22NDFEB
+  198  CLEAR
+  199  mkdir 22nDFEB
+  200  clear
+  201  mkdir 22nd_Feb
+  202  cd 22nd_Feb
+  203  git init
+  204  vi hello.txt
+  205  git status
+  206  git add hello.txt
+  207  git commit -m "first text file in master"
+  208  git log
+  209  git status
+  210  vi hello.c
+  211  cat hello.c
+  212  git add hello.c
+  213  git commit -m "1st c file in master"
+  214  git log
+  215  vi hello.txt
+  216  git status
+  217  git add hello.txt
+  218  git commit -m "modified this text file"
+  219  git log
+  220  git branch test
+  221  git branch dev
+  222  git checkout test
+  223  vi hello.c
+  224  git add hello.c
+  225  git commit -m "modified this c text file"
+  226  git checkout master
+  227  vi hello.c
+  228  git checkout dev
+  229  vi hello.txt
+  230  git add hello.txt
+  231  git commit -m "modified this text file in dev"
+  232  git status
+  233  git log --oneline
+  234  git checkout master
+  235  vi hi.py
+  236  git status
+  237  vi .gitignore
+  238  git add .gitignore
+  239  git commit -m "ignored file"
+  240  git status
+  241  git add .
+  242  vi 1.png
+  243  vi .gitignore
+  244  git add .gitignore
+  245  git commit -m "ignored image"
+  246  git status
+  247  git add .
+  248  git log --oneline
+  249  mkdir ignore
+  250  cd ignore
+  251  vi hi.txt
+  252  vi hi.png
+  253  cd ..
+  254  vi .gitignore
+  255  ls
+  256  git add .gitignore
+  257  git commit -m "ignored folder"
+  258  git log
+  259  clear
+  260  cd ..
+  261  clear
+  262  mkdir 27Feb
+  263  cd 27Feb
+  264  git init
+  265  vi hello.txt
+  266  git add hello.txt
+  267  git commit -m "heyaaa"
+  268  git status
+  269  vi hello.c
+  270  vi hello.txt
+  271  git add .
+  272  vi hello.c
+  273  vi hello.txt
+  274  git add .
+  275  git commit -m "2nd commit"
+  276  git status
+  277  git log
+  278  git branch dev1
+  279  git checkout dev1
+  280  vi hello.txt
+  281  git status
+  282  git add hello.txt
+  283  git commit -m "third commit"
+  284  git status
+  285  git branch dev2
+  286  git checkout dev2
+  287  vi hello.txt
+  288  git add hello.txt
+  289  git commit -m "fourth commit added in dev2"
+  290  git status
+  291  git log
+  292  cat hello.txt
+  293  git checkout master
+  294  cat hello.txt
+  295  git checkout dev1
+  296  git merge dev2 dev1
+  297  git checkout master
+  298  cat hello.txt
+  299  vi hello.txt
+  300  git add .
+  301  git commit -m "fifth commit of next one"
+  302  git status
+  303  git checkout dev1
+  304  git merge master dev1
+  305  git mergetool
+  306  git add .
+  307  git commit "my last commit"
+  308  git commit -m "conflict resolved"
+  309  git log --oneline
+  310  history
+  311  git version
+  312  pwd
+  313  ls
+  314  cd 27Feb
+  315  git checkout master
+  316  git remote add origin https://github.com/Apoorav-Sharma/27Feb.git
+  317  git branch -M master
+  318  git push -u origin master
+  319  git branch
+  320  cd ..
+  321  mkdir clonerepo
+  322  pwd
+  323  cd ..
+  324  cd c
+  325  cd ..
+  326  mkdir Clonerepo
+  327  cd Clonerepo
+  328  pwd
+  329  git status
+  330  git clone https://github.com/MonitKapoor/23feb
+  331  ls
+  332  git checkout dev1
+  333  cd ..
+  334  git 27Feb
+  335  cd 27Feb
+  336  git checkout master
+  337  cd 23Feb
+  338  git branch
+  339  git checkout dev1
+  340  git log --oneline
+  341  git pull
+  342  git pull https://github.com/MonitKapoor/23feb
+  343  cd 23feb
+  344  cd ..
+  345  cd Clonerepo
+  346  cd 23feb
+  347  git branch dev1
+  348  git checkout dev1
+  349  git commit -m "hey"
+  350  gi add .
+  351  git add .
+  352  git status
+  353  git commit -m "hey"
+  354  mkdir commits
+  355  cd commits
+  356  git commit -m "hey"
+  357  cd hello.txt
+  358  cd ..
+  359  cd hello.txt
+  360  git log --oneline
+  361  git pull
+  362  git checkout master
+  363  git branch -D dev1
+  364  cd hello.txt
+  365  vi hello.txt
+  366  git add .
+  367  git pull
+  368  git pull https://github.com/MonitKapoor/23feb
+  369  cd ..
+  370  cd ..
+  371  mkdir clone_new
+  372  cd clone_new
+  373  git clone https://github.com/Apoorav-Sharma/16hfeb_class
+  374  git log
+  375  git branches
+  376  git branch
+  377  pwd
+  378  cd userx
+  379  cd users 
+  380  ls
+  381  git log
+  382  git checkout main
+  383  git checkout mastrt
+  384  git checkout master
+  385  git log --oneline
+  386  git init
+  387  git log --oneline
+  388  cd 16hfeb_class
+  389  git log
+  390  git branch
+  391  pwd
+  392  cd ..
+  393  cd ..
+  394  cd ..
+  395  cd ..
+  396  pwd
+  397  mkdir project
+  398  cler
+  399  clear
+  400  mkdir nice
+  401  pwd
+  402  mkdir image.jpg
+  403  git init
+  404  cd nice
+  405  mkdir newimage.jpg
+  406  git init
+  407  touch hello.c
+  408  mkdir file.txt
+  409  mkdir k.html
+  410  git add.
+  411  git add .
+  412  git commit -m "first commit for all three of them"
+  413  git add .
+  414  git commit -m "changes"
+  415  git commit -am "second commit "
+  416  git add .
+  417  pwd
+  418  git commit -am "hey"
+  419  git status
+  420  git add .
+  421  git commit -am "hey"
+  422  git config --global color.ui auto
+  423  h
+  424  clear
+  425  cd ..
+  426  cd ..
+  427  cd ..
+  428  cd ..
+  429  cd d
+  430  mkdir hello
+  431  pwd
+  432  git init
+  433  vi hello.c
+  434  vi hello.txt
+  435  vi hi.html
+  436  vi hi.png
+  437  clear
+  438  mkdir hey
+  439  pwd
+  440  mkdir hi.jpg
+  441  cd hey
+  442  mkdir hii.jpg
+  443  gitinit
+  444  git init
+  445  vi h.c
+  446  vi m.txt
+  447  vi j.html
+  448  vi k.jpg
+  449  git add .
+  450  git commit -m "commited all three files"
+  451  vi h.c
+  452  git add .
+  453  git commit -m "c file commited"
+  454  vi j.html
+  455  vi m.txt
+  456  git add .
+  457  git commit -m "changes made in both and html and text file"
+  458  git remote add origin https://github.com/Apoorav-Sharma/hey.git
+  459  git branch -M master
+  460  git push -u origin master
+  461  cd hii.jpg
+  462  vi .gitignore
+  463  git add .
+  464  git add .gitignore
+  465  cd ..
+  466  vi .gitignore
+  467  git add .gitignore
+  468  git commit -m "hy"
+  469  cd hii.jpg
+  470  git add .gitignore
+  471  git commit -m "hello"
+  472  git add .
+  473  cd ..
+  474  cp h.c hii.jpg
+  475  cp m.txt hii.jpg
+  476  cp j.html hii.jpg
+  477  cp k.jpg hii.jpg
+  478  cd hii.jpg
+  479  vi h.c
+  480  vi m.txt
+  481  vi j.html
+  482  vi k.jpg
+  483  git add .
+  484  git commit -m "hello"
+  485  git push
+  486  cd ..
+  487  vi a.jpg
+  488  vi k.jpg
+  489  vi a.jpg
+  490  vi a.png
+  491  vi o.txt
+  492  history
+  493  vi o.txt
+  494  vi o.txt
+  495  vi o.txt
+  496  vi o.txt
+  497  vi o.txt
+  498  git add .
+  499  git commit -m "hey"
+  500  git push
+  501  cd ..
+  502  cd ..
+  503  mkdir Assess_2310990038
+  504  pwd
+  505  cd Assess_2310990038
+  506  mkdir sub_1
+  507  mkdir sub_2
+  508  vi .gitignore
+  509  git add .
+  510  vi i.txt
+  511  vi u.c
+  512  vi j.html
+  513  git add .
+  514  git init
+  515  git add .
+  516  git commit -m "first commit all three file committed in once"
+  517  vi j.html
+  518  git add .
+  519  git commit -m "html file commited"
+  520  vi u.c
+  521  git add .
+  522  git commit -m "only c file commited"
+  523  cp Assess_2310990038 sub_1
+  524  cd sub_1
+  525  cp Assess_2310990038 sub_1
+  526  cp -r Assess_2310990038/* sub_1/
+  527  cp i.txt sub_1
+  528  cd ..
+  529  cp i.txt sub_1
+  530  cp u.c sub_1
+  531  cp j.html sub_1
+  532  cp i.txt sub_1
+  533  cp u.c sub_1
+  534  cp j.html sub_1
+  535  cp i.txt sub_2
+  536  cp j.html sub_2
+  537  cp u.c sub_2
+  538  vi .gitignore
+  539  git add .
+  540  git commit -m "changes maked"
+  541  cd sub_1
+  542  vi i.txt
+  543  git add .
+  544  git commit -m "changes done in text file inside sub_1"
+  545  cd ..
+  546  vi p.png
+  547  cp p.png sub_1
+  548  cp p.png sub_1
+  549  cp p.png sub_2
+  550  cp p.png sub_2
+  551  cd sub_2
+  552  vi p.png
+  553  cd ..
+  554  cd sub_1
+  555  history > sub_1/i.txt
+  556  history> sub_1 / i.txt
+  557  history > "C:\Assess_2310990038\sub_1\i.txt"
